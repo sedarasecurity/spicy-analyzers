@@ -9,6 +9,7 @@ depends = http://github.com/zeek/spicy-dhcp >=0.0.1
     http://github.com/zeek/spicy-dns >=0.0.2
     http://github.com/zeek/spicy-http >=0.0.1
     http://github.com/zeek/spicy-ldap >=0.0.2
-    http://github.com/zeek/spicy-pe >=0.0.3
+    http://github.com/zeek/spicy-pe <=0.0.7
     http://github.com/zeek/spicy-png >=0.0.2
     http://github.com/zeek/spicy-zip >=0.0.1
+    http://github.com/zeek/spicy-tftp <=0.0.4
